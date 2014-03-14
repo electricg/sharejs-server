@@ -1,0 +1,9 @@
+{
+  "name": "emberpad",
+  "version": "0.0.1",
+  "dependencies": {
+    "connect": "*",
+    "share": "0.6",
+    "redis": "*"
+  }
+}
